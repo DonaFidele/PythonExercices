@@ -8,3 +8,5 @@ def multiply(liste):
     return somme
 
 print(multiply([1,2,3,5]))
+
+#une autre modification
