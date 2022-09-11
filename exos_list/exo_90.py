@@ -16,3 +16,5 @@ def count_liste(liste):
 print(count_liste([[1, 3], [5, 7], [9, 11], [13, 15, 17]]))
 print(count_liste([[2, 4], [[6, 8], [4, 5, 8]], [10, 12, 14]]
 ))
+
+#ajout de modification
